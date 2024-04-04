@@ -23,4 +23,4 @@ Spending Score is something you assign to the customer based on your defined par
 #### __[Kaggle Notebook](https://www.kaggle.com/kushal1996/customer-segmentation-k-means-analysis)__
 
 
-### **My contact info**: karansharma4336@gmail.com
+
