@@ -9,14 +9,14 @@ Spending Score is something you assign to the customer based on your defined par
 ##  __[More information on dataset](https://www.kaggle.com/vjchoudhary7/customer-segmentation-tutorial-in-python)__ 
 <br><h2>Outline: </h2>
 
-### 1. [Set up](https://github.com/KaranSharma18/Customer-Segmentation-/blob/main/Mall%20Customer%20Segmentation.ipynb)
-### 2. [Segmentation using Spending Score and Annual Income](https://github.com/KaranSharma18/Customer-Segmentation-/blob/main/Mall%20Customer%20Segmentation.ipynb)
-### 3. [K-Means Clustering ](https://github.com/KaranSharma18/Customer-Segmentation-/blob/main/Mall%20Customer%20Segmentation.ipynb)
-### 4. [Finding the Optimal number of Clusters](https://github.com/KaranSharma18/Customer-Segmentation-/blob/main/Mall%20Customer%20Segmentation.ipynb)
-### 5. [Elbow Rule](https://github.com/KaranSharma18/Customer-Segmentation-/blob/main/Mall%20Customer%20Segmentation.ipynb)
-### 6. [Decision Boundaries](https://github.com/KaranSharma18/Customer-Segmentation-/blob/main/Mall%20Customer%20Segmentation.ipynb)
-### 7. [Silhouette Analysis](https://github.com/KaranSharma18/Customer-Segmentation-/blob/main/Mall%20Customer%20Segmentation.ipynb)
-### 8. [Silhouette Diagram](https://github.com/KaranSharma18/Customer-Segmentation-/blob/main/Mall%20Customer%20Segmentation.ipynb)
+### 1. [Set up](https://github.com/sen1997susmit/Customer-Segmentation-K-means/blob/main/Mall%20Customer%20Segmentation.ipynb)
+### 2. [Segmentation using Spending Score and Annual Income](https://github.com/sen1997susmit/Customer-Segmentation-K-means/blob/main/Mall%20Customer%20Segmentation.ipynb)
+### 3. [K-Means Clustering ](https://github.com/sen1997susmit/Customer-Segmentation-K-means/blob/main/Mall%20Customer%20Segmentation.ipynb)
+### 4. [Finding the Optimal number of Clusters](https://github.com/sen1997susmit/Customer-Segmentation-K-means/blob/main/Mall%20Customer%20Segmentation.ipynb)
+### 5. [Elbow Rule](https://github.com/sen1997susmit/Customer-Segmentation-K-means/blob/main/Mall%20Customer%20Segmentation.ipynb)
+### 6. [Decision Boundaries](https://github.com/sen1997susmit/Customer-Segmentation-K-means/blob/main/Mall%20Customer%20Segmentation.ipynb)
+### 7. [Silhouette Analysis](https://github.com/sen1997susmit/Customer-Segmentation-K-means/blob/main/Mall%20Customer%20Segmentation.ipynb)
+### 8. [Silhouette Diagram](https://github.com/sen1997susmit/Customer-Segmentation-K-means/blob/main/Mall%20Customer%20Segmentation.ipynb)
 <br><h2>References: </h2>
 #### __[hands-on machine learning with scikit-learn and tensorflow 2nd edition](https://github.com/ageron/handson-ml2)__
 
